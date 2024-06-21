@@ -1,522 +1,559 @@
 [
   {
-    "user": "TasteExplorer90",
-    "restaurantName": "Rustic Eatery",
+    "user": "NomNomFanatic24",
+    "restaurantName": "Delicious Grill",
     "city": "Dhaka",
     "country": "Bangladesh",
-    "deliveryPrice": 239,
-    "estimatedDeliveryTime": 43,
-    "cuisines": [
-      "Vegetarian",
-      "Burgers",
-      "Mexican"
-    ],
-    "menuItems": [
-      {
-        "name": "Churros",
-        "price": 300
-      },
-      {
-        "name": "Tacos al Pastor",
-        "price": 700
-      },
-      {
-        "name": "Guacamole and Chips",
-        "price": 400
-      }
-    ],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2024-04-18T15:09:06.677409"
-  },
-  {
-    "user": "HungryExplorer25",
-    "restaurantName": "Tasty Cafe",
-    "city": "Chittagong",
-    "country": "Bangladesh",
-    "deliveryPrice": 209,
-    "estimatedDeliveryTime": 40,
-    "cuisines": [
-      "Japanese",
-      "Indian",
-      "Italian"
-    ],
-    "menuItems": [
-      {
-        "name": "Tempura",
-        "price": 800
-      },
-      {
-        "name": "Ramen",
-        "price": 900
-      },
-      {
-        "name": "Chicken Tikka Masala",
-        "price": 800
-      },
-      {
-        "name": "Palak Paneer",
-        "price": 700
-      },
-      {
-        "name": "Lasagna",
-        "price": 900
-      },
-      {
-        "name": "Margherita Pizza",
-        "price": 750
-      },
-      {
-        "name": "Spaghetti Carbonara",
-        "price": 850
-      }
-    ],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2024-01-01T15:09:06.677475"
-  },
-  {
-    "user": "SavoryExplorer91",
-    "restaurantName": "Rustic House",
-    "city": "Dhaka",
-    "country": "Bangladesh",
-    "deliveryPrice": 199,
-    "estimatedDeliveryTime": 31,
-    "cuisines": [
-      "Seafood",
-      "Indian",
-      "American",
-      "Pasta"
-    ],
-    "menuItems": [
-      {
-        "name": "Chicken Tikka Masala",
-        "price": 800
-      },
-      {
-        "name": "Biryani",
-        "price": 900
-      },
-      {
-        "name": "Caesar Salad",
-        "price": 400
-      },
-      {
-        "name": "Cheeseburger",
-        "price": 600
-      }
-    ],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2024-04-15T15:09:06.677520"
-  },
-  {
-    "user": "SavoryExplorer87",
-    "restaurantName": "Sizzling Eatery",
-    "city": "Dhaka",
-    "country": "Bangladesh",
-    "deliveryPrice": 269,
-    "estimatedDeliveryTime": 57,
-    "cuisines": [
-      "Japanese",
-      "Burgers",
-      "Vegetarian"
-    ],
-    "menuItems": [
-      {
-        "name": "Ramen",
-        "price": 900
-      },
-      {
-        "name": "Sushi Combo",
-        "price": 1200
-      }
-    ],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2024-01-16T15:09:06.677552"
-  },
-  {
-    "user": "NomNomExplorer98",
-    "restaurantName": "Sizzling Place",
-    "city": "Chittagong",
-    "country": "Bangladesh",
-    "deliveryPrice": 152,
-    "estimatedDeliveryTime": 59,
-    "cuisines": [
-      "Vegan",
-      "Seafood"
-    ],
-    "menuItems": [],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2023-12-26T15:09:06.677577"
-  },
-  {
-    "user": "FeastFanatic41",
-    "restaurantName": "Gourmet House",
-    "city": "Chittagong",
-    "country": "Bangladesh",
-    "deliveryPrice": 282,
+    "deliveryPrice": 194,
     "estimatedDeliveryTime": 35,
     "cuisines": [
-      "Steak",
-      "Seafood",
-      "Pasta",
-      "Italian"
+      "Indian",
+      "French",
+      "Greek",
+      "Burgers"
     ],
     "menuItems": [
       {
-        "name": "Spaghetti Carbonara",
-        "price": 850
-      },
-      {
-        "name": "Lasagna",
-        "price": 900
-      },
-      {
-        "name": "Tiramisu",
-        "price": 500
+        "name": "Palak Paneer",
+        "price": 700,
+        "_id": "66749d027c6c6c6eb8d90d14"
       }
     ],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2024-02-10T15:09:06.677611"
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918122/Savage-2019-top-50-busy-restaurant_dkgnwk.jpg",
+    "lastUpdated": "2024-01-22T21:20:02.314669"
   },
   {
-    "user": "NomNomLover59",
-    "restaurantName": "Rustic Kitchen",
+    "user": "FeastLover54",
+    "restaurantName": "Tasty Cafe",
     "city": "Dhaka",
     "country": "Bangladesh",
-    "deliveryPrice": 252,
-    "estimatedDeliveryTime": 29,
+    "deliveryPrice": 220,
+    "estimatedDeliveryTime": 60,
     "cuisines": [
-      "Italian",
-      "Seafood",
+      "Japanese",
       "Chinese"
     ],
     "menuItems": [
       {
-        "name": "Tiramisu",
-        "price": 500
-      },
-      {
-        "name": "Lasagna",
-        "price": 900
-      }
-    ],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2024-05-15T15:09:06.677644"
-  },
-  {
-    "user": "NomNomLover65",
-    "restaurantName": "Delicious House",
-    "city": "Dhaka",
-    "country": "Bangladesh",
-    "deliveryPrice": 265,
-    "estimatedDeliveryTime": 35,
-    "cuisines": [
-      "Mexican",
-      "Tacos"
-    ],
-    "menuItems": [
-      {
-        "name": "Churros",
-        "price": 300
-      },
-      {
-        "name": "Tacos al Pastor",
-        "price": 700
-      },
-      {
-        "name": "Burrito",
-        "price": 750
-      }
-    ],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2024-02-28T15:09:06.677676"
-  },
-  {
-    "user": "SavoryConnoisseur25",
-    "restaurantName": "Tasty Kitchen",
-    "city": "Dhaka",
-    "country": "Bangladesh",
-    "deliveryPrice": 178,
-    "estimatedDeliveryTime": 48,
-    "cuisines": [
-      "Mexican",
-      "Tacos"
-    ],
-    "menuItems": [
-      {
-        "name": "Churros",
-        "price": 300
-      },
-      {
-        "name": "Burrito",
-        "price": 750
-      }
-    ],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2024-03-16T15:09:06.677708"
-  },
-  {
-    "user": "TasteEater69",
-    "restaurantName": "Delicious House",
-    "city": "Dhaka",
-    "country": "Bangladesh",
-    "deliveryPrice": 265,
-    "estimatedDeliveryTime": 32,
-    "cuisines": [
-      "Indian",
-      "Thai",
-      "Vegetarian"
-    ],
-    "menuItems": [
-      {
-        "name": "Biryani",
-        "price": 900
-      }
-    ],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2024-05-03T15:09:06.677740"
-  },
-  {
-    "user": "SavoryFanatic16",
-    "restaurantName": "Delicious Kitchen",
-    "city": "Dhaka",
-    "country": "Bangladesh",
-    "deliveryPrice": 254,
-    "estimatedDeliveryTime": 28,
-    "cuisines": [
-      "Burgers",
-      "Pasta"
-    ],
-    "menuItems": [],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2024-05-18T15:09:06.677766"
-  },
-  {
-    "user": "SavoryExplorer26",
-    "restaurantName": "Elegant Cafe",
-    "city": "Chittagong",
-    "country": "Bangladesh",
-    "deliveryPrice": 158,
-    "estimatedDeliveryTime": 41,
-    "cuisines": [
-      "Vegan",
-      "Mexican",
-      "Indian"
-    ],
-    "menuItems": [
-      {
-        "name": "Tacos al Pastor",
-        "price": 700
-      },
-      {
-        "name": "Guacamole and Chips",
-        "price": 400
-      },
-      {
-        "name": "Biryani",
-        "price": 900
-      },
-      {
-        "name": "Palak Paneer",
-        "price": 700
-      }
-    ],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2024-01-18T15:09:06.677804"
-  },
-  {
-    "user": "FoodieConnoisseur68",
-    "restaurantName": "Sizzling Place",
-    "city": "Dhaka",
-    "country": "Bangladesh",
-    "deliveryPrice": 191,
-    "estimatedDeliveryTime": 23,
-    "cuisines": [
-      "Vegetarian",
-      "Japanese",
-      "Burgers",
-      "American"
-    ],
-    "menuItems": [
-      {
         "name": "Sushi Combo",
-        "price": 1200
+        "price": 1200,
+        "_id": "66749d027c6c6c6eb8d90cf8"
       },
       {
-        "name": "Chicken Wings",
-        "price": 650
-      },
-      {
-        "name": "BBQ Ribs",
-        "price": 900
-      },
-      {
-        "name": "Cheeseburger",
-        "price": 600
+        "name": "Tempura",
+        "price": 800,
+        "_id": "66749d027c6c6c6eb8d90cfe"
       }
     ],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2024-03-04T15:09:06.677842"
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918124/restaurant-nolinski-paris-5-etoiles-luxe-12-guillaume-de-laubier_ieavpa.jpg",
+    "lastUpdated": "2024-04-29T21:20:02.314733"
   },
   {
-    "user": "FeastLover50",
-    "restaurantName": "Rustic Bistro",
-    "city": "Chittagong",
-    "country": "Bangladesh",
-    "deliveryPrice": 243,
-    "estimatedDeliveryTime": 31,
-    "cuisines": [
-      "Chinese",
-      "Burgers",
-      "Indian",
-      "Tacos"
-    ],
-    "menuItems": [
-      {
-        "name": "Biryani",
-        "price": 900
-      },
-      {
-        "name": "Palak Paneer",
-        "price": 700
-      }
-    ],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2023-12-29T15:09:06.677874"
-  },
-  {
-    "user": "SavoryExplorer33",
-    "restaurantName": "Elegant Place",
+    "user": "DiningExplorer40",
+    "restaurantName": "Gourmet Bistro",
     "city": "Dhaka",
     "country": "Bangladesh",
-    "deliveryPrice": 292,
-    "estimatedDeliveryTime": 45,
-    "cuisines": [
-      "Vegetarian",
-      "Chinese",
-      "Greek"
-    ],
-    "menuItems": [],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2024-02-08T15:09:06.677901"
-  },
-  {
-    "user": "HungryLover35",
-    "restaurantName": "Elegant Bistro",
-    "city": "Dhaka",
-    "country": "Bangladesh",
-    "deliveryPrice": 261,
-    "estimatedDeliveryTime": 58,
+    "deliveryPrice": 256,
+    "estimatedDeliveryTime": 47,
     "cuisines": [
       "BBQ",
-      "Chinese",
-      "Mexican",
-      "Vegan"
+      "Indian",
+      "Greek",
+      "Chinese"
     ],
     "menuItems": [
       {
-        "name": "Guacamole and Chips",
-        "price": 400
+        "name": "Biryani",
+        "price": 900,
+        "_id": "66749d027c6c6c6eb8d90d17"
       },
       {
-        "name": "Tacos al Pastor",
-        "price": 700
+        "name": "Chicken Tikka Masala",
+        "price": 800,
+        "_id": "66749d027c6c6c6eb8d90d0a"
+      },
+      {
+        "name": "Naan Bread",
+        "price": 300,
+        "_id": "66749d027c6c6c6eb8d90d16"
       }
     ],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2024-04-16T15:09:06.677933"
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918122/640px-Restaurant_N_C3_A4sinneula_opjusd.jpg",
+    "lastUpdated": "2024-02-13T21:20:02.314787"
   },
   {
-    "user": "HungryGourmand46",
-    "restaurantName": "The House",
-    "city": "Dhaka",
+    "user": "HungryGourmand82",
+    "restaurantName": "Tasty Eatery",
+    "city": "Chittagong",
     "country": "Bangladesh",
-    "deliveryPrice": 196,
-    "estimatedDeliveryTime": 21,
+    "deliveryPrice": 238,
+    "estimatedDeliveryTime": 43,
     "cuisines": [
       "Italian",
-      "Burgers",
-      "Mexican"
+      "Vegan",
+      "Seafood"
     ],
     "menuItems": [
       {
         "name": "Margherita Pizza",
-        "price": 750
+        "price": 750,
+        "_id": "66749d027c6c6c6eb8d90cf7"
+      }
+    ],
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918123/51951042270_78ea1e8590_h.7_okfgss.jpg",
+    "lastUpdated": "2023-12-28T21:20:02.314827"
+  },
+  {
+    "user": "NomNomFanatic42",
+    "restaurantName": "Tasty Kitchen",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "deliveryPrice": 210,
+    "estimatedDeliveryTime": 48,
+    "cuisines": [
+      "Japanese",
+      "Greek",
+      "Indian",
+      "Italian"
+    ],
+    "menuItems": [
+      {
+        "name": "Sushi Combo",
+        "price": 1200,
+        "_id": "66749d027c6c6c6eb8d90cf8"
+      },
+      {
+        "name": "Tempura",
+        "price": 800,
+        "_id": "66749d027c6c6c6eb8d90cfe"
+      },
+      {
+        "name": "Ramen",
+        "price": 900,
+        "_id": "66749d027c6c6c6eb8d90cfa"
+      },
+      {
+        "name": "Chicken Tikka Masala",
+        "price": 800,
+        "_id": "66749d027c6c6c6eb8d90d0a"
+      },
+      {
+        "name": "Palak Paneer",
+        "price": 700,
+        "_id": "66749d027c6c6c6eb8d90d14"
       },
       {
         "name": "Lasagna",
-        "price": 900
-      },
+        "price": 900,
+        "_id": "66749d027c6c6c6eb8d90d06"
+      }
+    ],
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918123/TOO_restaurant_Panoramique_vue_Paris_nuit_v2-scaled_vxcvla.jpg",
+    "lastUpdated": "2024-03-04T21:20:02.314908"
+  },
+  {
+    "user": "FeastExplorer74",
+    "restaurantName": "The Grill",
+    "city": "Chittagong",
+    "country": "Bangladesh",
+    "deliveryPrice": 152,
+    "estimatedDeliveryTime": 42,
+    "cuisines": [
+      "Japanese",
+      "Thai",
+      "Mexican"
+    ],
+    "menuItems": [
       {
-        "name": "Burrito",
-        "price": 750
-      },
-      {
-        "name": "Tacos al Pastor",
-        "price": 700
+        "name": "Tempura",
+        "price": 800,
+        "_id": "66749d027c6c6c6eb8d90cfe"
       },
       {
         "name": "Churros",
-        "price": 300
+        "price": 300,
+        "_id": "66749d027c6c6c6eb8d90d18"
+      },
+      {
+        "name": "Burrito",
+        "price": 750,
+        "_id": "66749d027c6c6c6eb8d90d1a"
+      },
+      {
+        "name": "Guacamole and Chips",
+        "price": 400,
+        "_id": "66749d027c6c6c6eb8d90d19"
       }
     ],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2024-03-02T15:09:06.677981"
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918123/TOO_restaurant_Panoramique_vue_Paris_nuit_v2-scaled_vxcvla.jpg",
+    "lastUpdated": "2024-02-03T21:20:02.314970"
   },
   {
-    "user": "SavoryFanatic49",
-    "restaurantName": "The House",
-    "city": "Dhaka",
-    "country": "Bangladesh",
-    "deliveryPrice": 255,
-    "estimatedDeliveryTime": 42,
-    "cuisines": [
-      "Chinese",
-      "Pasta",
-      "French"
-    ],
-    "menuItems": [],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2024-01-19T15:09:06.678008"
-  },
-  {
-    "user": "NomNomFanatic25",
-    "restaurantName": "Sizzling Bistro",
+    "user": "FeastGourmand52",
+    "restaurantName": "Rustic Grill",
     "city": "Chittagong",
     "country": "Bangladesh",
-    "deliveryPrice": 182,
-    "estimatedDeliveryTime": 31,
+    "deliveryPrice": 151,
+    "estimatedDeliveryTime": 25,
     "cuisines": [
-      "Vegetarian",
-      "Burgers",
-      "French",
-      "Thai"
+      "Italian",
+      "Vegetarian"
     ],
-    "menuItems": [],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2024-02-10T15:09:06.678031"
+    "menuItems": [
+      {
+        "name": "Tiramisu",
+        "price": 500,
+        "_id": "66749d027c6c6c6eb8d90d0c"
+      }
+    ],
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918122/Savage-2019-top-50-busy-restaurant_dkgnwk.jpg",
+    "lastUpdated": "2024-05-30T21:20:02.315020"
   },
   {
-    "user": "FoodieConnoisseur55",
-    "restaurantName": "Elegant Eatery",
-    "city": "Dhaka",
+    "user": "TasteFanatic70",
+    "restaurantName": "Rustic Kitchen",
+    "city": "Chittagong",
     "country": "Bangladesh",
-    "deliveryPrice": 161,
-    "estimatedDeliveryTime": 54,
+    "deliveryPrice": 164,
+    "estimatedDeliveryTime": 38,
     "cuisines": [
-      "Indian",
-      "Tacos"
+      "American",
+      "Tacos",
+      "Vegan",
+      "Thai"
+    ],
+    "menuItems": [
+      {
+        "name": "Caesar Salad",
+        "price": 400,
+        "_id": "66749d027c6c6c6eb8d90d08"
+      },
+      {
+        "name": "Chicken Wings",
+        "price": 650,
+        "_id": "66749d027c6c6c6eb8d90d1b"
+      },
+      {
+        "name": "BBQ Ribs",
+        "price": 900,
+        "_id": "66749d027c6c6c6eb8d90d1c"
+      }
+    ],
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918122/Savage-2019-top-50-busy-restaurant_dkgnwk.jpg",
+    "lastUpdated": "2023-12-25T21:20:02.315082"
+  },
+  {
+    "user": "DiningExplorer89",
+    "restaurantName": "Tasty Eatery",
+    "city": "Chittagong",
+    "country": "Bangladesh",
+    "deliveryPrice": 276,
+    "estimatedDeliveryTime": 58,
+    "cuisines": [
+      "Seafood",
+      "Italian",
+      "American"
+    ],
+    "menuItems": [
+      {
+        "name": "Lasagna",
+        "price": 900,
+        "_id": "66749d027c6c6c6eb8d90d06"
+      },
+      {
+        "name": "Spaghetti Carbonara",
+        "price": 850,
+        "_id": "66749d027c6c6c6eb8d90d13"
+      },
+      {
+        "name": "Caesar Salad",
+        "price": 400,
+        "_id": "66749d027c6c6c6eb8d90d08"
+      }
+    ],
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918122/640px-Restaurant_N_C3_A4sinneula_opjusd.jpg",
+    "lastUpdated": "2024-02-28T21:20:02.315145"
+  },
+  {
+    "user": "FeastExplorer48",
+    "restaurantName": "Elegant Cafe",
+    "city": "Chittagong",
+    "country": "Bangladesh",
+    "deliveryPrice": 211,
+    "estimatedDeliveryTime": 60,
+    "cuisines": [
+      "BBQ",
+      "Indian"
     ],
     "menuItems": [
       {
         "name": "Naan Bread",
-        "price": 300
+        "price": 300,
+        "_id": "66749d027c6c6c6eb8d90d16"
+      },
+      {
+        "name": "Chicken Tikka Masala",
+        "price": 800,
+        "_id": "66749d027c6c6c6eb8d90d0a"
+      },
+      {
+        "name": "Palak Paneer",
+        "price": 700,
+        "_id": "66749d027c6c6c6eb8d90d14"
+      }
+    ],
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918122/640px-Restaurant_N_C3_A4sinneula_opjusd.jpg",
+    "lastUpdated": "2024-02-04T21:20:02.315206"
+  },
+  {
+    "user": "TasteExplorer13",
+    "restaurantName": "Rustic Kitchen",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "deliveryPrice": 222,
+    "estimatedDeliveryTime": 58,
+    "cuisines": [
+      "Seafood",
+      "Italian"
+    ],
+    "menuItems": [
+      {
+        "name": "Tiramisu",
+        "price": 500,
+        "_id": "66749d027c6c6c6eb8d90d0c"
+      }
+    ],
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918122/pexels-photo-262978_ttdndq.jpg",
+    "lastUpdated": "2024-04-27T21:20:02.315248"
+  },
+  {
+    "user": "HungryGourmand20",
+    "restaurantName": "Delicious Grill",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "deliveryPrice": 250,
+    "estimatedDeliveryTime": 55,
+    "cuisines": [
+      "Greek",
+      "Mexican",
+      "Vegetarian",
+      "BBQ"
+    ],
+    "menuItems": [
+      {
+        "name": "Guacamole and Chips",
+        "price": 400,
+        "_id": "66749d027c6c6c6eb8d90d19"
+      },
+      {
+        "name": "Tacos al Pastor",
+        "price": 700,
+        "_id": "66749d027c6c6c6eb8d90d10"
+      },
+      {
+        "name": "Churros",
+        "price": 300,
+        "_id": "66749d027c6c6c6eb8d90d18"
+      }
+    ],
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918123/TOO_restaurant_Panoramique_vue_Paris_nuit_v2-scaled_vxcvla.jpg",
+    "lastUpdated": "2024-03-07T21:20:02.315306"
+  },
+  {
+    "user": "DiningConnoisseur16",
+    "restaurantName": "Sizzling Eatery",
+    "city": "Chittagong",
+    "country": "Bangladesh",
+    "deliveryPrice": 152,
+    "estimatedDeliveryTime": 55,
+    "cuisines": [
+      "Chinese",
+      "Mexican",
+      "BBQ"
+    ],
+    "menuItems": [
+      {
+        "name": "Tacos al Pastor",
+        "price": 700,
+        "_id": "66749d027c6c6c6eb8d90d10"
+      },
+      {
+        "name": "Burrito",
+        "price": 750,
+        "_id": "66749d027c6c6c6eb8d90d1a"
+      },
+      {
+        "name": "Guacamole and Chips",
+        "price": 400,
+        "_id": "66749d027c6c6c6eb8d90d19"
+      }
+    ],
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918123/TOO_restaurant_Panoramique_vue_Paris_nuit_v2-scaled_vxcvla.jpg",
+    "lastUpdated": "2024-05-29T21:20:02.315361"
+  },
+  {
+    "user": "TasteGourmand68",
+    "restaurantName": "Tasty Kitchen",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "deliveryPrice": 241,
+    "estimatedDeliveryTime": 45,
+    "cuisines": [
+      "Chinese",
+      "Greek",
+      "Tacos",
+      "Thai"
+    ],
+    "menuItems": [],
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918123/51951042270_78ea1e8590_h.7_okfgss.jpg",
+    "lastUpdated": "2024-05-15T21:20:02.315393"
+  },
+  {
+    "user": "HungryLover60",
+    "restaurantName": "Gourmet Kitchen",
+    "city": "Chittagong",
+    "country": "Bangladesh",
+    "deliveryPrice": 206,
+    "estimatedDeliveryTime": 58,
+    "cuisines": [
+      "Vegetarian",
+      "French"
+    ],
+    "menuItems": [],
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918124/restaurant-nolinski-paris-5-etoiles-luxe-12-guillaume-de-laubier_ieavpa.jpg",
+    "lastUpdated": "2024-05-06T21:20:02.315441"
+  },
+  {
+    "user": "FeastGourmand25",
+    "restaurantName": "Rustic Eatery",
+    "city": "Chittagong",
+    "country": "Bangladesh",
+    "deliveryPrice": 289,
+    "estimatedDeliveryTime": 21,
+    "cuisines": [
+      "Thai",
+      "Burgers"
+    ],
+    "menuItems": [],
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918124/restaurant-nolinski-paris-5-etoiles-luxe-12-guillaume-de-laubier_ieavpa.jpg",
+    "lastUpdated": "2024-02-11T21:20:02.315467"
+  },
+  {
+    "user": "SavoryLover99",
+    "restaurantName": "Tasty Bistro",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "deliveryPrice": 275,
+    "estimatedDeliveryTime": 22,
+    "cuisines": [
+      "Pasta",
+      "Thai",
+      "Italian",
+      "Vegetarian"
+    ],
+    "menuItems": [
+      {
+        "name": "Spaghetti Carbonara",
+        "price": 850,
+        "_id": "66749d027c6c6c6eb8d90d13"
+      }
+    ],
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918122/640px-Restaurant_N_C3_A4sinneula_opjusd.jpg",
+    "lastUpdated": "2024-03-29T21:20:02.315511"
+  },
+  {
+    "user": "FeastConnoisseur76",
+    "restaurantName": "Rustic Bistro",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "deliveryPrice": 256,
+    "estimatedDeliveryTime": 33,
+    "cuisines": [
+      "Indian",
+      "Greek",
+      "Chinese"
+    ],
+    "menuItems": [
+      {
+        "name": "Palak Paneer",
+        "price": 700,
+        "_id": "66749d027c6c6c6eb8d90d14"
       },
       {
         "name": "Biryani",
-        "price": 900
+        "price": 900,
+        "_id": "66749d027c6c6c6eb8d90d17"
       }
     ],
-    "imageUrl": "https://placehold.co/1600x400",
-    "lastUpdated": "2024-04-25T15:09:06.678058"
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918124/restaurant-nolinski-paris-5-etoiles-luxe-12-guillaume-de-laubier_ieavpa.jpg",
+    "lastUpdated": "2024-02-14T21:20:02.315559"
+  },
+  {
+    "user": "HungryFanatic97",
+    "restaurantName": "Rustic Grill",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "deliveryPrice": 270,
+    "estimatedDeliveryTime": 51,
+    "cuisines": [
+      "Indian",
+      "BBQ",
+      "Mexican"
+    ],
+    "menuItems": [
+      {
+        "name": "Naan Bread",
+        "price": 300,
+        "_id": "66749d027c6c6c6eb8d90d16"
+      },
+      {
+        "name": "Biryani",
+        "price": 900,
+        "_id": "66749d027c6c6c6eb8d90d17"
+      },
+      {
+        "name": "Churros",
+        "price": 300,
+        "_id": "66749d027c6c6c6eb8d90d18"
+      },
+      {
+        "name": "Guacamole and Chips",
+        "price": 400,
+        "_id": "66749d027c6c6c6eb8d90d19"
+      },
+      {
+        "name": "Burrito",
+        "price": 750,
+        "_id": "66749d027c6c6c6eb8d90d1a"
+      }
+    ],
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918123/TOO_restaurant_Panoramique_vue_Paris_nuit_v2-scaled_vxcvla.jpg",
+    "lastUpdated": "2024-02-27T21:20:02.315629"
+  },
+  {
+    "user": "NomNomExplorer66",
+    "restaurantName": "Sizzling Kitchen",
+    "city": "Chittagong",
+    "country": "Bangladesh",
+    "deliveryPrice": 195,
+    "estimatedDeliveryTime": 42,
+    "cuisines": [
+      "American",
+      "Thai"
+    ],
+    "menuItems": [
+      {
+        "name": "Chicken Wings",
+        "price": 650,
+        "_id": "66749d027c6c6c6eb8d90d1b"
+      },
+      {
+        "name": "BBQ Ribs",
+        "price": 900,
+        "_id": "66749d027c6c6c6eb8d90d1c"
+      }
+    ],
+    "imageUrl": "https://res.cloudinary.com/du9jxipbp/image/upload/v1718918122/pexels-photo-262978_ttdndq.jpg",
+    "lastUpdated": "2024-01-18T21:20:02.315677"
   }
 ]
