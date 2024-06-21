@@ -30,7 +30,7 @@ export const useGetRestaurant = (restaurantId?: string) => {
 };
 
 export const useSearchRestaurants = (
-  searchState:SearchState,
+  searchState: SearchState,
   city?: string
 ) => {
   const createSearchRequest = async (): Promise<RestaurantSearchResponse> => {
@@ -52,7 +52,7 @@ export const useSearchRestaurants = (
   };
 
   const { data: results, isLoading } = useQuery(
-    ["searchRestaurants",searchState],
+    ["searchRestaurants", searchState, city],
     createSearchRequest,
     { enabled: !!city }
   );
